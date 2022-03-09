@@ -1,3 +1,3 @@
 HI THERE!!
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github]https://github.com/SARVAGNA-7077?style=for-the-badge&logo=GitHub&logoColor=white)]
